@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "http://harmoniaglobal.com.br/update/tibia.zip",
+	"newClientUrl" : "https://solutionclouds.com.br/harmoniarp/tibia.zip",
 	"clientExecutable": "client.exe"
 }
